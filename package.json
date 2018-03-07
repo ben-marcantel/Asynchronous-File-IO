@@ -1,0 +1,20 @@
+{
+  "name": "Asynchronous-File-IO",
+  "version": "1.0.0",
+  "description": "practice with async file reading",
+  "main": "async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-marcantel/Asynchronous-File-IO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben-marcantel/Asynchronous-File-IO/issues"
+  },
+  "homepage": "https://github.com/ben-marcantel/Asynchronous-File-IO#readme"
+}
